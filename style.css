@@ -10,7 +10,7 @@
     font-family: 'Rubik';
     font-style: normal;
     font-weight: 600;
-    font-size: 16px;
+    font-size: 17px;
     line-height: 19px;
     color: #4F5665;
 }
@@ -26,7 +26,6 @@
     line-height: 19px;
     color: #4F5665;
 }
-
 
 .navitem3 {
     margin-left: 940px;
@@ -52,7 +51,6 @@
 }
 
 .navitem5 {
-
     display: flex;
     margin-left: 1300px;
     margin-top: -19px;
@@ -62,7 +60,6 @@
     font-size: 16px;
     line-height: 19px;
     color: #0B132A;
-
 }
 
 .content1 {
@@ -102,7 +99,6 @@
     margin-top: -270px;
     width: 31%;
 }
-
 
 .pattern1 {
     margin-left: 365px;
@@ -337,6 +333,7 @@
     font-size: 18px;
     line-height: 30px;
     color: #0B132A;
+
 }
 
 .standardPlan {
@@ -350,6 +347,7 @@
     font-size: 16px;
     line-height: 45px;
     color: #4F5665;
+
 }
 
 .offer2 {
@@ -449,7 +447,6 @@
 }
 
 .heading2 {
-    /* position: absolute; */
     margin-top: 300px;
     margin-left: 50px;
     text-align: center;
@@ -474,9 +471,11 @@
 }
 
 .worldMap {
+
     margin-left: 350px;
     margin-top: 140px;
     width: 60%;
+
 }
 
 .sponsors {
@@ -548,7 +547,7 @@
 
 .star1 {
     position: absolute;
-    margin-left: 600px;
+    margin-left: 500px;
     width: 1.7%;
     margin-top: -27px;
 }
@@ -840,4 +839,3 @@
     line-height: 30px;
     color: #4F5665;
 }
-

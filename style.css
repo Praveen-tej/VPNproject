@@ -4,6 +4,7 @@
 }
 
 .navitem1 {
+
     display: flex;
     margin-left: 660px;
     margin-top: -30px;
@@ -444,6 +445,7 @@
     padding: 8px 40px;
     box-sizing: border-box;
 }
+
 
 .heading2 {
     margin-top: 300px;

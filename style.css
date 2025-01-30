@@ -5,7 +5,7 @@
 
 .navitem1 {
     display: flex;
-    margin-left: 660px;
+    margin-left:  660px;
     margin-top: -30px;
     font-family: 'Rubik';
     font-style: normal;
@@ -16,14 +16,14 @@
 }
 
 .navitem2 {
-    display: flex;
-    margin-left: 800px;
-    margin-top: -20px;
-    font-family: 'Rubik';
-    font-style: normal;
-    font-weight: 400;
+    display:  flex;
+    margin-left:  800px;
+    margin-top:  -20px;
+    font-family:  'Rubik';
+    font-style:  normal;
+    font-weight:  400;
     font-size: 16px;
-    line-height: 19px;
+    line-height:  19px;
     color: #4F5665;
 }
 
@@ -61,6 +61,7 @@
     line-height: 19px;
     color: #0B132A;
 }
+
 
 .content1 {
     margin-left: 350px;
@@ -445,7 +446,6 @@
     box-sizing: border-box;
 }
 
-
 .heading2 {
     margin-top: 300px;
     margin-left: 50px;
@@ -670,6 +670,7 @@
     margin-top: 40px;
     font-family: 'Rubik';
     font-style: normal;
+    
     font-weight: 500;
     font-size: 18px;
     line-height: 23px;
@@ -703,6 +704,7 @@
     margin-top: -200px;
     font-family: 'Rubik';
     font-style: normal;
+
     font-weight: 600;
     font-size: 35px;
     line-height: 45px;
@@ -750,6 +752,7 @@
     margin-top: 10px;
     font-family: 'Rubik';
     font-style: normal;
+
     font-weight: 600;
     font-size: 17px;
     line-height: 25px;
@@ -781,6 +784,7 @@
     margin-left: 280px;
     font-family: 'Rubik';
     font-style: normal;
+
     font-weight: 400;
     font-size: 18px;
     line-height: 30px;
@@ -798,6 +802,7 @@
     list-style: none;
     font-family: 'Rubik';
     font-style: normal;
+
     font-weight: 500;
     font-size: 16px;
     line-height: 30px;
@@ -816,6 +821,7 @@
     list-style: none;
     font-family: 'Rubik';
     font-style: normal;
+
     font-weight: 500;
     font-size: 16px;
     line-height: 30px;
